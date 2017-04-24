@@ -1,2 +1,2 @@
 # H2O
-Wordpress Theam
+Wordpress Theme
