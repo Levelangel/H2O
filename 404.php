@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-<p>This is index</p>
+<p>404!!!</p>
 <?php get_footer(); ?>
