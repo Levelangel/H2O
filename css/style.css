@@ -4,8 +4,8 @@
   border-top: 1px solid #ccc;
 }
 footer > p {
-  color: rgba(0,0,0,0.6);
-  margin-bottom: 0px;
+  color: rgb(48, 50, 52);
+  margin-bottom: 0;
   font-size: 90%;
 }
 body{
