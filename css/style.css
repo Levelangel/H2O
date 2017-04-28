@@ -1,0 +1,14 @@
+.line{
+  display: block;
+  width: 100%;
+  border-top: 1px solid #ccc;
+}
+footer > p {
+  color: rgba(0,0,0,0.6);
+  margin-bottom: 0px;
+  font-size: 90%;
+}
+body{
+  width:80%;
+  margin:0 auto;
+}

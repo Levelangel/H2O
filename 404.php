@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-<p>404!!!</p>
+<p style="text-align:center;font-size:200px;">404</p>
 <?php get_footer(); ?>
